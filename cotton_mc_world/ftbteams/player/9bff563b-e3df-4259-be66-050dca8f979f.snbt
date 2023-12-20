@@ -1,0 +1,19 @@
+{
+	id: "9bff563b-e3df-4259-be66-050dca8f979f",
+	type: "player",
+	player_name: "Trickier21",
+	ranks: {
+		9bff563b-e3df-4259-be66-050dca8f979f: "owner"
+	},
+	properties: {
+		"ftbteams:display_name": "Trickier21",
+		"ftbteams:color": "#59FF7F",
+		"ftbchunks:block_edit_mode": "allies",
+		"ftbchunks:block_interact_mode": "allies",
+		"ftbteams:description": "",
+		"ftbteams:free_to_join": 0b,
+		"ftbchunks:allow_fake_players": 1b
+	},
+	message_history: [ ],
+	extra: { }
+}
