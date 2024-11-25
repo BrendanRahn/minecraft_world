@@ -1,2 +1,0 @@
-turtle.refuel()
-turtle.dig()
